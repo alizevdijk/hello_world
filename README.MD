@@ -4,4 +4,4 @@ Hello more!
 
 Hello even more!
 
-Alize is crazy!
+Alize is really crazy!
